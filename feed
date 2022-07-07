@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+  <title>buttersys</title>
+  <link>https://buttersys.com</link>
+  <description>buttersys is a software company specializing in fleet simulation and AI. Our fleetsim product helps teach students software engineering skills within a challenging and exciting automation system comprised of a large mobile robot fleet. And in addition to education, fleetsim is used for research in robotic fleet AI and control.
+  </description>
+  <copyright>2018-2022 buttersys, LLC. All rights reserved</copyright>
+  <lastBuildDate>Fri, 06 May 2022</lastBuildDate>
+  <item>
+    <title>Updated main website</title>
+    <link>https://buttersys.com</link>
+    <description>We have added initial content to our website.</description>
+    <guid isPermaLink="false">508e3218-cb5b-4e13-ad49-756dcc00d20c</guid>
+    <pubDate>Fri, 06 May 2022</pubDate>
+  </item>
+</channel>
+</rss>
